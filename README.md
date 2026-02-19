@@ -4,7 +4,7 @@ This repository provides for our applications on AWS.
 
 ## Overview
 
-Applications are streamlined for scalability and performance.
+Our applications are streamlined for scalability and performance. We have successfully managed global documents using GitHub, helping teams who felt intimidated or confused by the tool. We specialize in simplifying GitHub workflows, organizing repositories, and teaching non-technical users how to confidently use version control.
 
 ## Features
 
